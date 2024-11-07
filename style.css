@@ -33,6 +33,7 @@ body {
     justify-content: center;
     align-items: center;
     width: max-content;
+    height: 330px;
 }
 
 .textbox {
