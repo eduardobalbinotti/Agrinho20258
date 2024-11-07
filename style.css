@@ -27,5 +27,19 @@ body {
     justify-content: center;
     align-items: center;
 }
+.boxtext {
+    background-color: gainsboro;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: max-content;
+}
+
+.textbox {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 5px;
+}
 
 
