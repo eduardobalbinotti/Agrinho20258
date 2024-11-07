@@ -4,6 +4,7 @@ body {
     justify-content: center;
     flex-direction: column;
     gap: 50px;
+    height: 100vh;
 }
 
 .box {
