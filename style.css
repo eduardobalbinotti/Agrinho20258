@@ -6,6 +6,17 @@ body {
     gap: 50px;
     height: 100vh;
 }
+.headerimg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.headerimg img {
+    height: 500px;
+    border-radius: 15px;
+    
+}
 
 .box {
 	display: flex;
