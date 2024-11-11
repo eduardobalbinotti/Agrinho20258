@@ -12,7 +12,7 @@ body {
     align-items: center;
     flex-direction: column;
     gap: 5px;
-    margin-top: 400px;
+    margin-top: 310px;
 
 }
 .headerimg img {
@@ -48,6 +48,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 330px;
+    width: 1220px;
 }
 
 .textbox {
