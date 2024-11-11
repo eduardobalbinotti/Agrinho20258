@@ -10,12 +10,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    gap: 5px;
 
 }
 .headerimg img {
     height: 500px;
     border-radius: 15px;
-    
+
 }
 
 .box {
